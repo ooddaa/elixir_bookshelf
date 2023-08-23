@@ -1,12 +1,12 @@
-[submodule "g_lessel_phoenix-in-action"]
-	path = g_lessel_phoenix-in-action
-	url = ./g_lessel_phoenix-in-action
+[submodule "g_lessel_phoenix_in_action"]
+	path = g_lessel_phoenix_in_action
+	url = https://github.com/ooddaa/g_lessel_phoenix_in_action.git
 [submodule "gray_tate_otp"]
 	path = gray_tate_otp
 	url = https://github.com/ooddaa/gray_tate_otp.git
 [submodule "sasa_juric_elixir_in_action"]
 	path = sasa_juric_elixir_in_action
-	url = ./sasa_juric_elixir_in_action
+	url = https://github.com/ooddaa/sasa_juric_elixir_in_action.git
 [submodule "tate_programming_lv"]
 	path = tate_programming_lv
-	url = ./tate_programming_lv
+	url = https://github.com/ooddaa/tate_programming_lv.git
