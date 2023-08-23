@@ -3,7 +3,7 @@
 	url = ./g_lessel_phoenix-in-action
 [submodule "gray_tate_otp"]
 	path = gray_tate_otp
-	url = ./gray_tate_otp
+	url = https://github.com/ooddaa/gray_tate_otp.git
 [submodule "sasa_juric_elixir_in_action"]
 	path = sasa_juric_elixir_in_action
 	url = ./sasa_juric_elixir_in_action
