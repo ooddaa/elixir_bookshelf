@@ -1,0 +1,12 @@
+[submodule "g_lessel_phoenix-in-action"]
+	path = g_lessel_phoenix-in-action
+	url = ./g_lessel_phoenix-in-action
+[submodule "gray_tate_otp"]
+	path = gray_tate_otp
+	url = ./gray_tate_otp
+[submodule "sasa_juric_elixir_in_action"]
+	path = sasa_juric_elixir_in_action
+	url = ./sasa_juric_elixir_in_action
+[submodule "tate_programming_lv"]
+	path = tate_programming_lv
+	url = ./tate_programming_lv
